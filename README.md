@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Angular
 
 <div >
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanessa-Maria2&layout=compact&langs_count=10&show_icons=true&theme=radical" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanessa-Maria2&layout=compact&exclude_repo=Projeto-Pizzaria&langs_count=10&show_icons=true&theme=radical" />
   <img height="180px" src="https://github-readme-stats.vercel.app/api/?username=Vanessa-Maria2&layout=compact&show_icons=true&theme=radical" />
 </div>
 
